@@ -1,6 +1,6 @@
-# Borrower_reliability_study
+***!!This is my project made as part of the training in Yandex.Practicum!!***
 
-**!!This is my project made as part of the training in Yandex.Practicum!!**
+# Borrower_reliability_study
 
 The client is the credit department of the bank. We need to understand whether the marital status and number of children of the client affects the fact of repayment of the loan on time. Input data from the bank - statistics on the solvency of customers.***
 
