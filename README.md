@@ -9,17 +9,18 @@ The results of the study will be taken into account when building a credit scori
 ```
 
 Data description:
-children - number of children in the family
-days_employed - total work experience in days
-dob_years - age of client in years
-education - client's education level
-education_id - identifier of education level
-family_status - marital status
-family_status_id - family status identifier
-gender - client's gender
-income_type - type of employment
-debt - whether the client had any debts on loans repayment
-total_income - monthly income
-purpose - purpose of getting credit
+
+  children - number of children in the family
+  days_employed - total work experience in days
+  dob_years - age of client in years
+  education - client's education level
+  education_id - identifier of education level
+  family_status - marital status
+  family_status_id - family status identifier
+  gender - client's gender
+  income_type - type of employment
+  debt - whether the client had any debts on loans repayment
+  total_income - monthly income
+  purpose - purpose of getting credit
 
 ```
